@@ -17,6 +17,7 @@
   <depend>navigation2</depend>
   <depend>slam_toolbox</depend>
   <depend>twist_mux</depend>
+  <depend>moveit2</depend>
 
   <export>
     <build_type>ament_cmake</build_type>

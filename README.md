@@ -57,3 +57,4 @@ The robot can be controlled in two ways,
 2. Using Nav2
     You can give a goal pose in the rviz2 window and Nav2 will autonomously run the robot using the data from the lidar, odrive odom and IMU data.
 
+<img width="1800" height="4000" alt="1000010382" src="https://github.com/user-attachments/assets/301a4540-f373-4393-9462-9593b410102e" />
